@@ -418,6 +418,13 @@
   abrp_name: opel:astrae:23:54
   reg: VXKFMZKWZP.*
   max_elec_consumption: 70
+- !ElecModel
+  name: Astra Sports Tourer Electric
+  battery_power: 50.8
+  fuel_capacity: 0
+  abrp_name: opel:astrae:22:54:tour
+  reg: VXKFNZKWZP.*
+  max_elec_consumption: 70
 - !CarModel
   name: Astra L Hybrid
   battery_power: 12.4
